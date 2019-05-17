@@ -1,0 +1,1541 @@
+1539131814807	geckodriver	INFO	geckodriver 0.21.0
+1539131814861	geckodriver	INFO	Listening on 127.0.0.1:50130
+1539131817555	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\goomhoom\\AppData\\Local\\Temp\\rust_mozprofile.x2ULnqv4Q7Id"
+1539131827107	Marionette	INFO	Listening on port 50142
+1539131827425	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539131828781	Marionette	DEBUG	[6442450945] Frame script loaded
+1539131829432	Marionette	DEBUG	[6442450945] Frame script registered
+1539131833031	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539131833529	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539131834260	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539131835445	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539131836265	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539131836453	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539131836454	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539131836906	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539131836932	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539131837438	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539131837439	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539131837699	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539131847934	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/search?key=td
+1539131848552	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/search?key=td
+1539131848553	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/search?key=td
+1539131848921	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539131849698	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539131850599	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539131850799	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539131850800	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539131851153	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539131851219	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539131851505	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539131851506	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539131851616	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539131861679	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539131862103	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539131862104	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539131862349	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539131863019	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539131863919	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539131864108	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539131864109	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539131864450	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539131864469	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539131864780	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539131864782	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539131864987	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539131875085	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539131875570	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539131875571	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539131875937	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539131876600	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539131877492	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539131877796	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539131877798	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539131878045	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539131878070	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539131878536	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539131878540	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539131878618	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539131888672	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539131889179	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539131889180	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539131889543	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539131890165	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539131891040	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539131891206	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539131891207	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539131891546	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539131891561	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539131892014	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539131892014	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539131892081	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539131902139	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539131902570	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539131902571	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539131902876	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539131903657	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539131904703	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539131904958	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539131904959	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539131905394	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539131905469	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539131905693	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539131905694	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539131905792	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539131915862	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539131916375	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539131916379	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539131916836	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539131917700	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539131918512	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539131918668	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539131918669	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539131919004	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539131919049	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539131919355	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539131919357	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539131919428	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539131929495	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539131929907	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539131929908	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539131930178	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539131930778	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539131931668	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539131931823	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539131931823	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539131932091	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539131932116	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+1539131932647	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539131932649	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539131932715	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539131942772	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539131943297	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539131943298	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539131943595	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539131944271	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539131945163	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539131945336	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539131945340	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539131945564	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539131945607	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+1539131946107	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539131946109	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539131946216	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539131956276	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539131956874	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539131956874	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539131957123	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539131957731	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539131958615	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539131958791	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539131958791	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539131959077	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539131959086	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+1539131959436	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539131959437	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539131959716	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539131969761	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539131970331	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539131970333	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539131970620	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539131971501	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539131972433	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539131972595	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539131972595	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539131972962	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539131972981	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+1539131973389	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539131973391	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539131973532	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539131983593	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539131984065	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539131984068	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539131984600	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+1539131984965	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539131985872	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539131986092	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539131986093	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539131986638	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539131986652	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+1539131987148	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539131987150	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539131987242	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539131997302	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539131997942	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539131997942	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539131998211	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539131998899	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539131999759	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539131999915	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539131999916	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132000208	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132000238	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+1539132000630	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132000633	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132000736	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539132010808	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132011456	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539132011457	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132011726	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132012511	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132013413	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132013570	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132013571	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132013977	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132013992	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+1539132014452	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132014455	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132014841	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539132024903	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132025436	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539132025436	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132025784	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+1539132026179	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132027064	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132027212	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132027213	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132027583	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132027596	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132028220	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132028221	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132028600	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539132038651	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132039250	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539132039251	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132039600	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132040460	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132041444	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132041745	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132041746	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132042034	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132042067	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+1539132042449	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132042451	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132042559	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539132052636	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132053189	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539132053190	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132053485	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132054283	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132055195	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132055389	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132055390	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132055685	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132055720	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132056082	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132056084	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132056167	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539132066242	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132066753	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539132066756	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132066976	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132067606	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132068489	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132068651	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132068652	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132068969	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132068990	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+1539132069342	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132069345	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132069489	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539132079573	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539132080144	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539132080444	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+1539132080797	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132081684	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132081864	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132081867	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132082190	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132082246	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+1539132082870	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132082872	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132082972	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539132093030	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132093543	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539132093544	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132093844	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132094791	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132095704	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132095960	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132095961	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132096289	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132096299	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+1539132096630	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132096631	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132096769	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539132106863	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132107441	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539132107442	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132107688	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132108400	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132109287	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132109460	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132109460	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132109802	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132109874	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+1539132110205	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132110209	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132110305	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539132120385	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132120837	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539132120837	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132121152	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132121930	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132122852	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132123013	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132123014	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132123383	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132123437	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+1539132123912	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132123914	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132124022	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539132134089	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132134705	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539132134706	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132135043	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+1539132135404	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132136285	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132136428	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132136430	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132136739	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132136792	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+1539132137175	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132137178	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132137306	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539132147376	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132148015	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539132148016	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132148262	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132149008	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132149903	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132150086	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132150088	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132150436	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132150454	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+1539132150819	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132150828	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132150945	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539132161012	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132161627	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539132161628	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132161959	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132162759	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132163679	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132163860	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132163861	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132164354	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132164411	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+1539132164838	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132164839	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132164996	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539132175074	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132175636	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539132175637	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132175917	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132176637	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132177640	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132177807	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132177809	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132178134	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132178172	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+1539132178544	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132178545	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132178649	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539132188714	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132189311	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539132189313	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132189632	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132190436	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132191335	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132191515	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132191516	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132191806	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132191833	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+1539132192477	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132192479	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132192597	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539132202670	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132203243	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539132203244	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132203501	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132204270	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132205177	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132205353	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132205354	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132205796	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132205825	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+1539132206230	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132206231	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132206413	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539132216515	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132217243	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539132217244	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132217762	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132218618	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132219533	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132219727	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132219728	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132220137	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132220148	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132220424	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132220425	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132220524	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539132230635	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132231226	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539132231227	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132231561	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132232393	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132233337	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132233490	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132233491	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132233945	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132234015	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+1539132234418	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132234427	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132234548	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539132244632	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132245441	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539132245442	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132245702	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132246432	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132247347	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132247536	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132247538	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132247851	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132247883	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132248162	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132248163	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132248250	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539132258317	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132258814	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539132258815	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132259128	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132259864	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132260755	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132260942	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132260943	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132261331	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132261351	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+1539132261697	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132261698	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132261814	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539132271869	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132272478	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539132272479	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132272800	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132273531	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132274421	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132274636	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132274637	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132275023	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132275038	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+1539132275574	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132275579	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132275697	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539132285762	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132286280	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539132286281	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132286577	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132287305	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132288197	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132288466	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132288467	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132288861	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132288887	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132289140	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132289141	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132289223	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539132299294	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132299754	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539132299755	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132300143	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132300783	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132301702	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132301868	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132301869	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132302248	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132302312	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+1539132302883	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132302887	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132303010	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539132313081	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132313622	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539132313624	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132313991	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132314880	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132315789	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132315943	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132315944	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132316234	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132316277	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+1539132316731	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132316732	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132316815	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539132326883	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132327381	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539132327382	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132327734	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132328520	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132329441	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132329602	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132329603	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132330006	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132330099	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132330425	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132330426	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132330532	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539132340592	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132341121	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539132341121	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132341459	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132342299	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132343203	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132343366	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132343367	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132343716	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132343735	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+1539132344480	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132344482	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132344582	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539132354641	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132355209	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539132355210	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132355634	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+1539132355994	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132356968	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132356975	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132357261	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132357263	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132357581	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539132357905	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539132358139	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539132358140	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539132358419	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132359201	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132360102	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132360289	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132360290	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132360600	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132360621	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+1539132361201	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132361203	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132361290	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539132371358	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132371937	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539132371938	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132372262	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132373179	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132374118	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132374352	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132374353	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132374738	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132374814	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+1539132375176	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132375181	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132375292	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539132385379	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132385939	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539132385940	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132386360	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132387274	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132388168	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132388336	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132388337	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132388626	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132388644	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132388985	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132388986	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132389074	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539132399156	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132399662	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539132399663	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132400020	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132400907	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132401877	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132402093	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132402094	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132402543	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132402609	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+1539132403080	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132403083	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132403387	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539132413453	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132414042	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539132414043	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132414478	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+1539132414935	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132415869	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132416179	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132416180	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132416708	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132416719	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132417352	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132417355	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132417450	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539132427547	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539132428156	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539132428156	Marionette	DEBUG	[6442450945] Received DOM event unload for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539132428551	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132429297	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132430206	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132430380	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132430381	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132430743	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132430764	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+1539132431113	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132431116	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132431205	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539132441270	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132441755	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539132441756	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132442146	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+1539132442565	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132443464	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132443630	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132443631	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132443948	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132444000	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+1539132444565	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132444567	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132444671	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539132454742	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132455223	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539132455224	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132455486	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132456228	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132457147	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132457327	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132457328	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132457688	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132457753	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+1539132458135	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132458138	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132458335	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539132468397	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132468945	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539132468946	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132469384	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132470089	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132470966	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132471128	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132471129	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132471411	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132471457	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+1539132472052	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132472054	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132472145	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539132482215	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132482822	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539132482823	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132483163	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132483911	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132484893	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132484903	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132485181	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132485182	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132485475	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+[Parent 13392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539132738649	Marionette	INFO	Stopped listening on port 50142
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[Child 13640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460015,name=PHal::Msg_DisableScreenConfigurationNotifications) Channel closing: too late to send/recv, messages will be lost
+
+[Ch1539132750551	geckodriver	INFO	geckodriver 0.21.0
+1539132750569	geckodriver	INFO	Listening on 127.0.0.1:55701
+1539132753416	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\goomhoom\\AppData\\Local\\Temp\\rust_mozprofile.SZ2bQCojGBDC"
+1539132758928	Marionette	INFO	Listening on port 55710
+1539132759022	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539132759147	Marionette	DEBUG	[6442450945] Frame script loaded
+1539132759935	Marionette	DEBUG	[6442450945] Frame script registered
+1539132763484	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539132763867	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539132764574	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132765485	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132766386	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132766589	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132766591	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132766986	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132767020	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132767459	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132767459	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132767810	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539132768115	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539132768360	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539132768363	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539132768734	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132769138	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132770015	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132770200	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132770202	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132770448	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132770455	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132770796	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132770797	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132771073	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539132771381	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539132771614	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539132771615	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539132771867	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132772216	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132773175	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132773408	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132773409	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132773672	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132773696	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132774114	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132774115	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132774313	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539132774705	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539132774867	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539132774868	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539132775140	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132775451	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132776393	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132776614	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132776615	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132776888	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132776908	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132777244	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132777245	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132777578	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539132778215	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539132778404	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539132778404	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539132778647	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132778946	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132779885	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132780040	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132780042	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132780358	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132780367	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132780750	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132780751	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132781059	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539132781767	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "util/bannerMobile", needed by: layout/main
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "Base64", needed by: util/query, util/UserManage, util/msgInit, modal/login
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "util/jweixin", needed by: layout/main
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "gt", needed by: modal/login
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "util/banner", needed by: layout/main
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "jquery", needed by: util/ejs, util/animate, util/modal, util/loading, util/common, util/query, util/UserManage, util/liveSearch, modal/login, util/header, modal/complain, util/footer, util/backToTop, st, util/usereport, util/imgLoad, layout/main, modal/outData, util/jquery.qrcode, util/vippayfriends, util/ui-vippay, util/vipRenew, util/vipcontent, util/deepSearch, modal/contact
+http://requirejs.org/docs/errors.html#scripterror
+1539132781912	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539132781913	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539132782141	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132782482	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132783390	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132783536	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132783539	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132784152	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132784165	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132784462	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132784463	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132784659	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539132785359	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539132785554	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539132785555	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539132785804	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132786147	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132787226	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132787382	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132787384	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/, line 1: ReferenceError: common is not defined
+1539132787685	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132787698	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132788291	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132788292	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+JavaScript error: https://hub.tianyancha.com/search?key=td, line 1: ReferenceError: common is not defined
+1539132788695	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+JavaScript error: https://hub.tianyancha.com/search?key=td, line 1: ReferenceError: common is not defined
+1539132789974	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539132790175	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539132790176	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539132790594	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132790947	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132792126	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132792312	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132792314	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132792877	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132792893	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132793438	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132793439	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132793665	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539132794718	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539132795073	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539132795074	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539132795304	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132795613	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132796760	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132796939	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132796940	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132797529	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132797540	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132797830	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132797835	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132798159	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539132799261	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539132799422	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539132799423	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539132799755	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132800055	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132800947	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132801157	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132801158	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132801478	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132801499	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132801850	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132801851	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132802090	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539132803451	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539132803681	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539132803681	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539132804016	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132804351	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132805317	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132805596	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132805597	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132806302	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132806315	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132806703	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132806703	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132806999	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539132808429	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539132808592	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539132808593	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539132808803	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132809108	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132810045	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132810350	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132810350	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132810642	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132810651	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132810977	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132810978	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132811238	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539132813147	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539132813304	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539132813305	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539132813518	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132813803	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132814776	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132814781	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132815404	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132815405	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132815773	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539132817526	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539132817730	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539132817731	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539132817994	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132818310	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132819202	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132819349	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132819350	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132819604	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132819613	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132819879	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132819879	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132820111	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539132821805	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539132822013	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539132822013	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539132822251	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132822596	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132823495	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132823657	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132823658	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132823988	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132824028	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132824481	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132824482	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132824720	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539132826520	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539132826733	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539132826734	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539132827011	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132827364	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132828300	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132828476	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132828477	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132828772	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132828794	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132829068	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132829069	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132829306	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539132831343	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539132831511	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539132831513	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539132831746	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132832108	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132833101	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132833294	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132833295	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132833575	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132833631	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132833988	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132833988	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132834211	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539132836399	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539132836599	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539132836601	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539132836859	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132837237	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132838616	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132838762	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132838763	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132839106	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132839160	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132839451	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132839451	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132839678	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539132841954	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539132842095	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539132842098	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539132842399	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132842743	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132843726	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132844005	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132844006	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132844262	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132844277	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132844661	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132844662	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132844924	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539132847211	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539132847393	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539132847395	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539132847747	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132848069	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132849295	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132849475	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132849476	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132849794	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132849810	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132850204	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132850204	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132850481	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539132853099	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539132853303	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539132853304	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539132853765	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132854469	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132855437	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132855606	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132855607	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132855853	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132855863	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132856340	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132856343	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132856551	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539132859049	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539132859242	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539132859243	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539132859533	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132859913	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132860879	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132861235	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132861238	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132861532	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132861564	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132861938	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132861939	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132862234	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539132864990	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539132865223	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539132865224	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539132865570	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132865871	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132866817	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132866972	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132866973	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132867231	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132867247	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132867737	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132867738	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132867956	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539132871082	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539132871288	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539132871289	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539132871572	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132871913	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132872900	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132873256	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132873259	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132873529	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132873556	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132873865	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132873866	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132874155	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539132877449	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539132877614	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539132877615	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539132877987	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132878302	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132879309	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132879456	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132879457	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132879728	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132879742	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132880081	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132880082	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132880312	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539132883421	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539132883612	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539132883612	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539132883979	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132884307	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132885365	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132885582	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132885583	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132885969	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132885992	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132886325	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132886326	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132886614	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539132889871	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539132890071	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539132890072	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539132890330	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132890663	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132891719	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132892030	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132892032	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132892304	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132892331	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132892680	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132892682	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132892928	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539132896409	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539132896529	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539132896530	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539132896977	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132897947	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132898970	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132899137	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132899138	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132899414	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132899464	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132899791	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132899792	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132900112	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539132903742	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539132903975	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539132903976	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539132904352	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132905005	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132906040	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132906403	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132906405	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132906748	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132906769	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132907247	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132907247	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132907557	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539132911317	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539132911625	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539132911625	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539132911859	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132912535	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132913526	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132913707	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132913708	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132914034	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132914062	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132914378	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132914378	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132914655	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539132918410	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539132918658	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539132918658	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539132918977	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132919710	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132920684	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132921108	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132921110	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132921341	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132921386	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132922091	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132922091	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132922377	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539132926335	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539132926521	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539132926522	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539132926799	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132927546	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132928555	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132928717	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132928718	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132928985	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132929012	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132929415	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132929417	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132929647	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539132933995	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539132934194	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539132934194	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539132934541	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132935234	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132936273	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132936481	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132936483	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132936753	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132936767	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132937135	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132937135	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132937364	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539132941843	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539132942617	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539132942617	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539132942889	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132944037	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132945033	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132945242	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132945244	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132945558	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132945571	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132945959	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132945961	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132946284	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539132951011	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539132951220	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539132951223	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539132951494	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132952140	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132953123	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132953292	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132953294	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132953577	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132953618	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132953927	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132953931	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132954277	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539132959226	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539132959458	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539132959460	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539132959749	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132960558	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132961577	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132961786	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132961789	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132962119	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132962140	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132962491	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132962492	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132962745	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539132967658	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "util/jweixin", needed by: layout/main
+http://requirejs.org/docs/errors.html#scripterror
+1539132968009	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539132968010	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539132968230	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132968570	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132969656	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132969891	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132969892	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132970190	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132970222	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132970614	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132970615	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132970886	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539132975649	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539132975917	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539132975918	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539132976199	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132976820	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: clearMsg is not defined
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: clearMsg is not defined
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: loginByPhone is not defined
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: loginByPhone is not defined
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: loginByPhone is not defined
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: loginByPhone is not defined
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: loginByPhone is not defined
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: loginByPhone is not defined
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: loginByPhone is not defined
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: loginByPhone is not defined
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: loginByPhone is not defined
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: loginByPhone is not defined
+1539132977984	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132977995	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132978327	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132978329	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132978797	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539132983507	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539132983690	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539132983695	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539132984021	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132984774	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132985770	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132985955	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132985957	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539132986236	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539132986246	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539132986728	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539132986728	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539132986807	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+1539132996954	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132997385	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td&rnd=
+1539132997387	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td&rnd=
+1539132997625	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539132998366	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539132999458	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539132999730	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539132999731	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539133000116	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539133000138	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539133000498	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539133000499	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539133000712	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539133006275	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539133006848	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539133006851	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539133007203	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: header is not defined
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: header is not defined
+1539133008104	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539133009089	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539133009237	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539133009239	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539133009513	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539133009531	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539133009795	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539133009796	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539133010065	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539133015315	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539133015820	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539133015821	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539133016117	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539133016787	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539133017744	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539133017908	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539133017908	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539133018212	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539133018228	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539133018726	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539133018726	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539133018956	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539133023847	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539133024106	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539133024107	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539133024378	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539133025068	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539133026152	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539133026326	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539133026327	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539133026580	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539133026591	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539133026893	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539133026894	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539133027203	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539133032332	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539133032800	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539133032800	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539133033063	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539133033740	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539133034828	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539133035002	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539133035003	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539133035245	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539133035293	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539133035636	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539133035637	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539133035880	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539133041589	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539133042104	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539133042105	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539133042492	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+1539133042901	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539133043934	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539133044102	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539133044103	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539133044388	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539133044415	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539133044931	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539133044932	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539133045183	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539133051061	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539133051572	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539133051573	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539133052203	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539133053452	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539133054439	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539133054617	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539133054619	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539133054941	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539133054962	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539133056378	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539133056380	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539133056626	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539133062586	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539133063110	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539133063111	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539133063419	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539133064151	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539133065172	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539133065342	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539133065342	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539133065604	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539133065616	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539133065956	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539133065957	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539133066199	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539133071871	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539133072489	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539133072490	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539133072820	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+JavaScript error: https://www.tianyancha.com/login, line 1: ReferenceError: changeCurrent is not defined
+1539133073524	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539133074498	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539133074686	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539133074686	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539133074985	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539133075002	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539133075318	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539133075319	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539133075557	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://hub.tianyancha.com/search?key=td
+1539133081877	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://hub.tianyancha.com/search?key=td
+1539133082548	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://hub.tianyancha.com/search?key=td
+1539133082548	Marionette	DEBUG	[6442450945] Received DOM event unload for https://hub.tianyancha.com/search?key=td
+1539133082918	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login
+1539133083347	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539133084389	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login
+1539133084587	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login
+1539133084588	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login
+1539133084844	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/
+1539133084912	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/
+JavaScript error: https://static.tianyancha.com/wap-require-js/public/js/lib/require.js, line 168: Error: Script error for "route/main"
+http://requirejs.org/docs/errors.html#scripterror
+1539133085430	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/
+1539133085431	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/
+1539133085507	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://antirobot.tianyancha.com/captcha/verify?return_url=https%3A%2F%2Fhub.tianyancha.com%2Fsearch%3Fkey%3Dtd&rnd=
+[Parent 6136, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6136, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6136, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1539153618945	Marionette	INFO	Stopped listening on port 55710
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[Child 5300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
